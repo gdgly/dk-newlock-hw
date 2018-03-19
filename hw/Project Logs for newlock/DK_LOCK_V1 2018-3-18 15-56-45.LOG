@@ -16,7 +16,6 @@ Removed Member From Class: ClassName=U_DK_STM32L151 Member=D1
 Removed Member From Class: ClassName=U_DK_STM32L151 Member=D2
 Removed Member From Class: ClassName=U_DK_STM32L151 Member=P3
 Removed Member From Class: ClassName=U_DK_STM32L151 Member=P6
-Change Component Footprint: Designator=C106 Old Footprint=0603 New Footprint=1206
 Change Component Footprint: Designator=P9 Old Footprint=HDR1X2 New Footprint=COM2
 Change Component Footprint: Designator=P10 Old Footprint=HDR1X2 New Footprint=COM2
 Change Component Footprint: Designator=P11 Old Footprint=HDR1X2 New Footprint=COM2
@@ -25,8 +24,6 @@ Change Component Footprint: Designator=P13 Old Footprint=HDR1X2 New Footprint=CO
 Change Component Footprint: Designator=P8 Old Footprint=HDR1X2 New Footprint=HEAD2L-0.8
 Change Component Footprint: Designator=U5 Old Footprint=moto New Footprint=MOTO2
 Change Component Footprint: Designator=Y2 Old Footprint=R38 New Footprint=XTAL32.786
-Change Component Footprint: Designator=D4 Old Footprint=SMC New Footprint=SOD-323
-Change Component Comment : Designator=D4 Old Comment=Diode New Comment=1N4148WST4
 Change Component Designator: OldDesignator=ANT2 NewDesignator=ANT1
 Change Component Designator: OldDesignator=C16 NewDesignator=C13
 Change Component Designator: OldDesignator=C17 NewDesignator=C14
@@ -206,7 +203,7 @@ Added Pin To Net: NetName=NetP7_2 Pin=P7-2
 Added Pin To Net: NetName=NetP7_2 Pin=Q3-1
 Added Net: Name=NetP7_2
 Added Member To Class: ClassName=U_DK_STM32L151 Member=Component C11 Cap
-Added Member To Class: ClassName=U_DK_POWER Member=Component D1 1N4148WST4
+Added Member To Class: ClassName=U_DK_POWER Member=Component D1 Diode
 Added Member To Class: ClassName=U_DK_POWER Member=Component L1 Inductor
 Added Member To Class: ClassName=U_DK_POWER Member=Component P3 BATT
 Added Member To Class: ClassName=U_DK_MOTO Member=Component Q3 NPN
