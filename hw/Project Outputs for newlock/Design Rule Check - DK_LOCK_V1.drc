@@ -1,18 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\George\Documents\Tencent Files\89436838\FileRecv\hw0319\hw0319\hw\SCHPCB\DK_LOCK_V1.0.PcbDoc
-Date     : 2018-03-19
-Time     : 23:02:16
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: Top Layer-No Net
-   Polygon named: BATT
-   Polygon named: BATT
-   Polygon named: Top Layer-No Net
-   Polygon named: Top Layer-No Net
-   Polygon named: BATT
-   Polygon named: BATT
-   Polygon named: BATT
-   Polygon named: BATT
+PCB File : C:\Users\dplc\Desktop\hw\hw\SCHPCB\DK_LOCK_V1.0.PcbDoc
+Date     : 2018/3/20
+Time     : 10:41:43
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -58,5 +47,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
