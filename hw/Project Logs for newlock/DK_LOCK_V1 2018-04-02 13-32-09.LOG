@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetQ3_2 Pin=Q3-1
+Removed Pin From Net: NetName=NetP7_2 Pin=Q3-2
+Removed Pin From Net: NetName=V3.3 Pin=SW2-1
+Removed Pin From Net: NetName=V3.3 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=U_DK_MOTO Member=C17
+Removed Member From Class: ClassName=U_DK_MOTO Member=C18
+Removed Member From Class: ClassName=U_DK_GU600E_V10 Member=C22
+Removed Member From Class: ClassName=U_DK_MOTO Member=R20
+Removed Member From Class: ClassName=U_DK_GU600E_V10 Member=U4
+Change Component Footprint: Designator=C28 Old Footprint=0603 New Footprint=1206
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=SOD-323
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=1N4148WST4
+Added Component: Designator=R15(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R201(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R202(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP7_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=BATT Pin=R15-2
+Added Pin To Net: NetName=V3.3 Pin=R201-1
+Added Pin To Net: NetName=V3.3 Pin=R202-1
+Added Pin To Net: NetName=NetR201_2 Pin=R201-2
+Added Pin To Net: NetName=NetR201_2 Pin=SW2-1
+Added Net: Name=NetR201_2
+Added Pin To Net: NetName=NetR202_2 Pin=R202-2
+Added Pin To Net: NetName=NetR202_2 Pin=SW2-2
+Added Net: Name=NetR202_2
+Added Member To Class: ClassName=U_DK_GU600E_V10 Member=Component ANT1 SMB
+Added Member To Class: ClassName=U_DK_MOTO Member=Component C23 Cap
+Added Member To Class: ClassName=U_DK_MOTO Member=Component C24 Cap
+Added Member To Class: ClassName=U_DK_GU600E_V10 Member=Component C25 Cap
+Added Member To Class: ClassName=U_DK_POWER Member=Component D1 1N4148WST4
+Added Member To Class: ClassName=U_DK_GU600E_V10 Member=Component D2 LED GREEN
+Added Member To Class: ClassName=U_DK_STM32L151 Member=Component P1 SWD
+Added Member To Class: ClassName=U_DK_STM32L151 Member=Component P2 UART1
+Added Member To Class: ClassName=U_DK_POWER Member=Component P3 BATT
+Added Member To Class: ClassName=U_DK_MOTO Member=Component P5 L_OFF
+Added Member To Class: ClassName=U_DK_MOTO Member=Component P6 L_ON
+Added Member To Class: ClassName=U_DK_MOTO Member=Component P7 BELL
+Added Member To Class: ClassName=U_DK_MOTO Member=Component P8 BUTTON
+Added Member To Class: ClassName=U_DK_MOTO Member=Component Q3 NPN
+Added Member To Class: ClassName=U_DK_POWER Member=Component R6 Res2
+Added Member To Class: ClassName=U_DK_POWER Member=Component R9 Res2
+Added Member To Class: ClassName=U_DK_POWER Member=Component R15 NC
+Added Member To Class: ClassName=U_DK_POWER Member=Component R16 Res2
+Added Member To Class: ClassName=U_DK_POWER Member=Component R17 Res2
+Added Member To Class: ClassName=U_DK_POWER Member=Component R19 Res2
+Added Member To Class: ClassName=U_DK_POWER Member=Component R21 Res2
+Added Member To Class: ClassName=U_DK_MOTO Member=Component R22 Res2
+Added Member To Class: ClassName=U_DK_MOTO Member=Component R23 Res2
+Added Member To Class: ClassName=U_DK_STM32L151 Member=Component R201 Res2
+Added Member To Class: ClassName=U_DK_STM32L151 Member=Component R202 Res2
+Added Member To Class: ClassName=U_DK_GU600E_V10 Member=Component U5 GU900E
+Added Room: Name=U_DK_GU600E_V10
+Added Room: Name=U_DK_MOTO
+Added Room: Name=U_DK_POWER
+Added Room: Name=U_DK_STM32L151
