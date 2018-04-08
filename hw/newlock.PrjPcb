@@ -40,23 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=SCH_LIB\LCM0801.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QVMIRDCR
-
-[Document2]
 DocumentPath=SCH_LIB\LM358.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +56,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILYJPKPM
 
-[Document3]
+[Document2]
 DocumentPath=SCH_LIB\220VAC-12.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,6 +72,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVIKWKYT
+
+[Document3]
+DocumentPath=SCH_LIB\LCM0801.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QVMIRDCR
 
 [Document4]
 DocumentPath=SCH_LIB\LM2576.SCHLIB
@@ -941,7 +941,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WHELTCIV
 
 [Document54]
-DocumentPath=SCHPCB\DK_LOCK_V1.1.PcbDoc
+DocumentPath=SCHPCB\DK_LOCK_V1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
