@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=E:\github\dk-newlock\hw\.PDF
+OutputFilePath2=E:\github\dk-newlock-hw\hw\.PDF
 ReleaseManaged2=0
-OutputBasePath2=E:\github\dk-newlock\hw\
+OutputBasePath2=E:\github\dk-newlock-hw\hw\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\github\dk-newlock\hw\.PDF
+RelativeOutputPath2=E:\github\dk-newlock-hw\hw\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
@@ -132,7 +132,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=DK_LOCK_V1.0.PcbDoc
+OutputDocumentPath2=DK_LOCK_V1.2.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
