@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C11 Old Footprint=0603 New Footprint=LC-CASE-A_3216
+Change Component Footprint: Designator=C28 Old Footprint=7343 New Footprint=LC-CASE-D_7343
+Added Room: Name=U_DK_GU600E_V10
+Added Room: Name=U_DK_POWER
+Added Room: Name=U_DK_STM32L151
